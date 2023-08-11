@@ -1,0 +1,20 @@
+table,tr,td,th{
+    border:solid 1px black;
+}
+
+td{
+    width: 100px;
+}
+th{
+    background-color: blue;
+    height: 50px;
+}
+tr:hover{
+    background-color: blue;
+}
+table{
+    width: 50%;
+}
+tr:nth-child(::-webkit-meter-even-less-good-value){
+    background-color: black;
+}
