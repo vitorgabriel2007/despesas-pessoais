@@ -1,2 +1,2 @@
 # distancia-capitais
-tabela de distancia entre capitais brasileiros 
+tabela de despesas
