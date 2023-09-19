@@ -14,6 +14,8 @@ tabela de despesas
 > # Tecnologias utilizadas
 > VSCode, Github, CSS, HTML5.
 ## Desenvolvedor
-[Foto do desenvolvedor]()
+
+<img src="foto.jpg" width="10%">
+
 Vitor Gabriel Ribeiro
 
